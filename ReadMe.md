@@ -39,4 +39,7 @@ This repository contains the basic code for a simple React Native shopping app b
 - Implement a shopping cart.
 - Integrate a payment gateway.
 
-![alt text](p.jpg)![alt text](p0.jpg)
+  ![p](https://github.com/KTTfx/rn-assignment6-11293722/assets/135650627/cbddf57e-b6f6-443a-8950-94210afcb583)
+  ![p0](https://github.com/KTTfx/rn-assignment6-11293722/assets/135650627/824c2945-eda8-4b83-81ae-f5cdf7c9e276)
+
+
